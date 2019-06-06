@@ -1,4 +1,4 @@
-# Maquina gaseosas
+# Maquina de gaseosas
 
 Se solicita modela en objetos el comportamiento de una maquina expendedora de gaseosas. La maquina solo vende un tipo de gaseosa y de un solo tamaño.
 El funcionamiento de la maquina es simple, el cliente ingresa el precio estipulado y preciona la palanca para obtener la bebida y retorna el cambio, si corresponde, al cliente.
