@@ -12,3 +12,5 @@ Por otro lado, si la maquina no tiene bebidas disponibles:
 * Si el cliente ingresa dineroIngresado, la máquina deberia devolver el dineroIngresado ingresado e informar que está sin stock al cliente.
 * Si el cliente presiona la palanca, la máquina debería informar que está sin stock al cliente.
 
+![Diagrama de estados](/estados.png)
+
